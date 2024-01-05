@@ -1,0 +1,11 @@
+{
+  "name": "weburl",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "author": "e6nlaq",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
